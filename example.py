@@ -1,1 +1,3 @@
-print ("My name is Noufal")
+for i in range(10):
+    print ("My name is Noufal")
+
