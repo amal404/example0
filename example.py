@@ -1,6 +1,6 @@
 
-for i in range(10):
+for i in range(10, 0, -1):
     spacer = " "*i
-    op = spacer + f"{i+1}. My name is Noufal"
+    op = spacer + "My name is Noufal"
     print (op)
 
