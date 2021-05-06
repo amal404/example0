@@ -1,3 +1,3 @@
 for i in range(10):
-    print ("My name is Noufal")
+    print (f"{i}. My name is Noufal")
 
